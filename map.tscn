@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://drk3mxviccpls"]
+
+[ext_resource type="PackedScene" uid="uid://cofqgkdxhlnh2" path="res://player.tscn" id="1_f8foc"]
+
+[node name="map" type="Node2D"]
+
+[node name="player" parent="." instance=ExtResource("1_f8foc")]
+
+[node name="Camera2D" type="Camera2D" parent="player"]
+zoom = Vector2(3, 3)
+
+[node name="Label" type="Label" parent="."]
+offset_top = 1.0
+offset_right = 275.0
+offset_bottom = 79.0
+text = "_______________________________________
+++++++++++++++++++++++++++++++
+________________________________________
+"
