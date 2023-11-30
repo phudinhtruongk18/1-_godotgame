@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dt43svsu03ku4"
-path="res://.godot/imported/Loading.png-d25b0dd5364243f5b1926b8a20921879.ctex"
+uid="uid://dj3iixuabkpk3"
+path="res://.godot/imported/idle.png-345bd841398ecb5f0be76f8faade9523.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/InstanceDock/Loading.png"
-dest_files=["res://.godot/imported/Loading.png-d25b0dd5364243f5b1926b8a20921879.ctex"]
+source_file="res://idle.png"
+dest_files=["res://.godot/imported/idle.png-345bd841398ecb5f0be76f8faade9523.ctex"]
 
 [params]
 
